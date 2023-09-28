@@ -16,8 +16,23 @@
 }
 section{
     float: right;
+    width: 80%;
+}
+.articles{
+    width: 95%;
+    margin: auto;
 }
 aside{
     float: left;
+    width: 20%;
     text-align: center;
 }
+.categories{
+    width: 95%;
+   
+}
+.categories ul{
+    padding: 0px;
+    list-style: none;
+}
+
